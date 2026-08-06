@@ -7,3 +7,6 @@ Linguagens de Programação
 # Aprendendo Java
 
 # Vai Corinthians!
+
+# Programador 
+- Thalita Modena
